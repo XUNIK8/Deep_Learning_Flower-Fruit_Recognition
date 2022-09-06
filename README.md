@@ -1,4 +1,8 @@
-# 各个文件功能如下
+# 详细介绍
+- 知乎说明文档：https://zhuanlan.zhihu.com/p/343259867
+- 介绍视频：https://www.bilibili.com/video/BV1rK411M7Vn?spm_id_from=333.999.0.0&vd_source=fbf5a86c948d55005a3ddf0f63195916
+
+# 文件说明
 
 ## 数据处理：
 
